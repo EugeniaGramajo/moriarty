@@ -1,0 +1,10 @@
+{
+    "tech":{
+        "title":"Tech Skills",
+        "description":"I have a diverse set of technical skills including proficiency in HTML5, CSS3, JavaScript, React, Redux, Node.js, Express.js, and PostgreSQL. My experience in building dynamic and responsive websites and web applications"
+    },
+    "soft":{
+        "title":"Soft Skills",
+        "description":"I have a diverse set of technical skills including proficiency in HTML5, CSS3, JavaScript, React, Redux, Node.js, Express.js, and PostgreSQL. My experience in building dynamic and responsive websites and web applications"
+    }
+}

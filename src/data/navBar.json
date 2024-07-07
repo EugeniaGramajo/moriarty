@@ -1,0 +1,27 @@
+
+[
+    {
+        "name":"Home",
+        "redirect":"/"
+    },
+    {
+        "name":"Projects",
+        "redirect":"projects"
+    },
+    {
+        "name":"Experience",
+        "redirect":"experience"
+    },
+    {
+        "name":"Certificates",
+        "redirect":"certificates"
+    },
+    {
+        "name":"Contact",
+        "redirect":"contact"
+    },
+    {
+        "name":"Games",
+        "redirect":"games"
+    }
+]
